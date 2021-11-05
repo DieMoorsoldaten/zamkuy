@@ -3869,7 +3869,7 @@ body {
 .main-description {
     font-family: 'CnRg', sans-serif;
     font-size: 20px;
-    line-height: 25px;
+    line-height: 24px;
     max-width: 90%;
     color: black
 }
@@ -3877,7 +3877,7 @@ body {
 .main-description p+p {
     font-size: 26px;
     line-height: 100%;
-    margin: 20px 0 0
+    margin: 10px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -3897,7 +3897,7 @@ body {
     .main-description {
         font-size: calc(20 / 16 * 1rem);
         line-height: calc(25 / 16 * 1rem);
-        width: 80%;
+        width: 90%;
         margin: 0 auto
     }
 }
